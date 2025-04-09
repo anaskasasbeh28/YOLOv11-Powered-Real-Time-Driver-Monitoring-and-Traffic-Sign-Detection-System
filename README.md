@@ -39,8 +39,8 @@ This project presents a real-time AI-powered traffic safety system built using Y
 ## 🎥 Demo Videos
 Here are the results of our real-time testing:
 
-- [Traffic Signs Detection Demo](#)  
-- [Driver Behaviors Monitoring Demo](#)  
+- [Traffic Signs Detection Demo](https://www.youtube.com/watch?v=eQ1tMq20L7M)  
+- [Driver Behaviors Monitoring Demo](https://www.youtube.com/watch?v=JKUsf6RV1CU)  
 
 Click the links or open them directly from your browser to watch the full demos.
 
@@ -51,8 +51,8 @@ Click the links or open them directly from your browser to watch the full demos.
 git clone https://github.com/your-username/YOLOv11-Driver-Monitoring-TSD.git
 cd YOLOv11-Driver-Monitoring-TSD
 
-
-💡 Future Work
+```
+## 💡 Future Work
 Improve real-time TTS precision for more dynamic updates.
 
 Extend the model to support additional driver behaviors (e.g., smoking, seatbelt usage).
